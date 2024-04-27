@@ -1,7 +1,7 @@
 | No | Year | Dataset Short Name | Dataset Full Name | Dataset Link | Comment |
 |----|------|---------------------|-------------------|--------------|---------|
 | 0 | 2023 | ABC | Absolute Branch Dataset | [Link1](https://www.ewubd.edu/) | The dataset was downloaded and stored in a shared drive |
-| 1 | 2020 | - | Heart Attack Analysis & Prediction Dataset | [Link]([link](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data)) | The dataset was downloaded and stored in a shared drive |
+| 1 | 2020 | - | Heart Attack Analysis & Prediction Dataset | [Link](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data) | The dataset was downloaded and stored in a shared drive |
 | 2 | - | HDP | Heart Disease Prediction | [Link](link) | The dataset was downloaded and stored in a shared drive |
 | 3 | 2019 | - | A database for using machine learning and data mining techniques for coronary artery disease diagnosis | [Link](link) | The dataset was downloaded and stored in a shared drive |
 | 4 | 2015 | - | Cardiovascular Disease dataset | [Link](link) | The dataset was downloaded and stored in a shared drive |
