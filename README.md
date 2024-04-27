@@ -24,15 +24,15 @@ This repository contains datasets, code, and documentation for developing and ev
 
 <!-- Data Analysis -->
 ## Data Analysis
-- The `notebooks/data_analysis.ipynb` notebook conducts exploratory data analysis (EDA) on the selected dataset(s). Visualizations and insights are presented to understand the data's characteristics and identify potential patterns related to cardiovascular disease.
+- The `notebooks/cardio_data_analysis.ipynb` notebook conducts exploratory data analysis (EDA) on the selected dataset(s). Visualizations and insights are presented to understand the data's characteristics and identify potential patterns related to cardiovascular disease.
 
 <!-- Machine Learning Models -->
 ## Machine Learning Models (Optional)
-- If applicable, this repository may include notebooks or scripts for traditional machine learning models such as regression, support vector machines (SVM), or decision trees. These models serve as baselines for comparison with deep learning approaches.
+- `notebooks/cardio_basic_ml_learning_models.ipynb` If applicable, this repository may include notebooks or scripts for traditional machine learning models such as regression, support vector machines (SVM), or decision trees. These models serve as baselines for comparison with deep learning approaches.
 
 <!-- Deep Learning Models -->
 ## Deep Learning Models
-- The `notebooks/deep_learning_models.ipynb` notebook or scripts contain implementations of deep learning models for cardiovascular disease prediction. Different architectures and techniques are explored to leverage the predictive power of neural networks.
+- The `notebooks/cardio_deep_learning_models.ipynb` notebook or scripts contain implementations of deep learning models for cardiovascular disease prediction. Different architectures and techniques are explored to leverage the predictive power of neural networks.
 
 <!-- Usage -->
 ## Usage
@@ -48,7 +48,7 @@ cd cardiovascular-disease-prediction-using-deep-learning
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- [List any acknowledgments or references here, if applicable.]
+- 
 
 ## Contributors
 - This project is developed by [Jihad7518](https://github.com/Jihad7518).
