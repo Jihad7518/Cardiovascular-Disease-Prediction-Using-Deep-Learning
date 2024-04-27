@@ -1,6 +1,6 @@
 | No | Paper title | Journal / Conference Name | Published Year | Paper Link | Citation Count | Cited Dataset No. |
 |----|-------------|----------------------------|----------------|------------|----------------|-------------------|
-| 0 | A brief history of time: an example paper name | - | 2023 | [Link](link) | 1206 | 0, 5, 6 |
+| 0 | A brief history of time: an example paper name | - | 2023 | [Link](https://www.ieee.org/) | 1206 | 0, 5, 6 |
 | 1 | Cardiovascular disease prediction using deep learning techniques | IOP Conference Series: Materials Science and Engineering, Volume 981, International Conference on Recent Advancements in Engineering and Management | 2020 | [Link](link) | 43 | 1 |
 | 2 | Heart disease prediction using machine learning techniques | IOP Conference Series: Materials Science and Engineering, Volume 1022, 1st International Conference on Computational Research and Data Analytics. | 2020 | [Link](link) | 41 | 1 |
 | 3 | Machine Learning Techniques For Heart Disease Prediction | INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH VOLUME 8 | 2019 | [Link](link) | 57 | 2 |
