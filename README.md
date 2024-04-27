@@ -38,3 +38,26 @@ This repository contains datasets, code, and documentation for developing and ev
 ## Usage
 1. To run this project locally, ensure you have the required Python libraries listed in `requirements.txt`. You can install them using `pip install -r requirements.txt`.
 2. Clone this repository:
+
+git clone https://github.com/Jihad7518/cardiovascular-disease-prediction-using-deep-learning.git
+cd cardiovascular-disease-prediction-using-deep-learning
+
+3. Follow the instructions in the respective notebooks to explore the datasets, train deep learning models, and evaluate their performance for cardiovascular disease prediction.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+- [List any acknowledgments or references here, if applicable.]
+
+## Contributors
+- This project is developed by [Jihad7518](https://github.com/Jihad7518).
+
+---
+
+```bash
+# Clone the repository
+git clone https://github.com/Jihad7518/cardiovascular-disease-prediction-using-deep-learning.git
+cd cardiovascular-disease-prediction-using-deep-learning
+
+# Follow the instructions in the respective notebooks to explore the datasets, train deep learning models, and evaluate their performance for cardiovascular disease prediction.
