@@ -1,5 +1,5 @@
 <!-- Project Title -->
-<h1 align="center">Cardiovascular Disease Prediction Using Deep Learning</h1>
+<h1 align="center">Cardiovascular Disease Prediction Using Machine Learning</h1>
 
 <!-- Project Description -->
 <p align="center">Predicting cardiovascular disease using deep learning techniques to improve patient outcomes.</p>
